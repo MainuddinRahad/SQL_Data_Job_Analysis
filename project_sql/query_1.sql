@@ -1,2 +1,0 @@
--- Test sql query
-
