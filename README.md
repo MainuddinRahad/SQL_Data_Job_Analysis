@@ -21,7 +21,7 @@
   - **Power BI:** I can use these to create a greate visual to my SQL query result.
 
 # The Analysis
-Each query for this project aimed at investigating specific aspects of the data analyst job market. Here’s how I approached each question.
+Each query for this project aimed at investigating specific aspects of the Business analyst job market. Here’s how I approached each question.
 ### 1. Top Paying Business Analyst Jobs
 To identify the highest-paying roles, I filtered Business analyst positions by average yearly salary and location, focusing on remote jobs. This query highlights the high paying opportunities in the field.
 
