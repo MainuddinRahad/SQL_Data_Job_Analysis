@@ -94,7 +94,7 @@ Here's the breakdown of the most demanded skills for the top 10 highest paying B
 - **Tableau** is also highly sought after, with a bold count of 4.
 - **Excel** is also highly sought after, with a bold count of 4.
 
-![top 10 skills](asstes\c_2.PNG)
+![top 10 skills](asstes/c_2.PNG)
 
 ### 3. In-Demand Skills for Business Analysts
 
@@ -119,7 +119,7 @@ Here's the breakdown of the most demanded skills for Business analysts in 2023
 **SQL** and **Excel** remain fundamental, emphasizing the need for strong foundational skills in data processing and spreadsheet manipulation.
 Programming and Visualization Tools like **Python, Tableau**, and **Power BI** are essential, pointing towards the increasing importance of technical skills in data storytelling and decision support.
 
-![top 10 skills](asstes\c_o_3.PNG) ![top 10 skills](asstes\c_3.PNG)
+![top 10 skills](asstes/c_o_3.PNG) ![top 10 skills](asstes/c_3.PNG)
 
 ### 4. Skills Based on Salary.
 
@@ -146,7 +146,7 @@ ORDER BY
     yearly_average_salary DESC
 LIMIT 20;
 ```
-![highest pay](asstes\c_4.PNG)
+![highest pay](asstes/c_4.PNG)
 
 - **Hadoop, Julia, Airflow:** These skills, while not as high-paying as the top three, are associated with emerging technologies like big data and cloud computing. Business Analysts with expertise in these areas will be well-positioned for future growth.
 
