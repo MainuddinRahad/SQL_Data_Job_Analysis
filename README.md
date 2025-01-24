@@ -50,7 +50,7 @@ Here's the breakdown of the top data analyst jobs in 2023:
 - **Diverse Employers:** Companies like **Noom, Uber, Multicoin Capital and CyberCoders , Harnham** are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles, from Junior Business Analyst to **Lead Business Intelligence Engineer**, reflecting varied roles and specializations within business analytics.
 
-![Top paying jobs](asstes\c_1.PNG)
+![Top paying jobs](asstes/c_1.PNG)
 Bar graph visualizing the salary for the top 10 salaries for Business analysts; I can generated this graph using power BI from my SQL query results.
 
 ### 2. Skills for Top Paying Jobs
