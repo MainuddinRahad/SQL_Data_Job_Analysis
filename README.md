@@ -45,7 +45,7 @@ WHERE
 ORDER BY salary_year_avg DESC
 LIMIT 10
 ```
-Here's the breakdown of the top data analyst jobs in 2023:
+Here's the breakdown of the top business analyst jobs in 2023:
 - **Wide Salary Range:** Top 10 paying Business analyst roles span from $134,550 to $220,000, indicating significant salary potential in the field.
 - **Diverse Employers:** Companies like **Noom, Uber, Multicoin Capital and CyberCoders , Harnham** are among those offering high salaries, showing a broad interest across different industries.
 - **Job Title Variety:** There's a high diversity in job titles, from Junior Business Analyst to **Lead Business Intelligence Engineer**, reflecting varied roles and specializations within business analytics.
